@@ -2,4 +2,4 @@ Hello!
 
 People of the world.
 
-[Demo](./demo/tips101.md)
+[Demo](./demo/tips_101.md)
