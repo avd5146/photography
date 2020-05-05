@@ -2,6 +2,6 @@
 
 Let’s see what happens.
 
-[![Video](./assets/images/omnom.gif)](./assets/videos/a1.mp4)
+[![Video](./assets/images/omnom.gif)](./assets/videos/a1.MP4)
 
 ![Om nom is here to greet you.](./assets/images/omnom.gif)
