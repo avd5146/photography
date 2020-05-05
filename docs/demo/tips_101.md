@@ -2,6 +2,6 @@
 
 Let’s see what happens.
 
-- Can I add a video?
+![Video](./assets/videos/a1.mp4)
 
 ![Om nom is here to greet you.](./assets/images/omnom.gif)
